@@ -41,3 +41,7 @@ wokkel==18.0.0
 # misp
 pymisp==2.4.135.3
 
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+twisted>=22.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
