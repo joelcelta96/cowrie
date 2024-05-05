@@ -41,3 +41,4 @@ wokkel==18.0.0
 # misp
 pymisp==2.4.135.3
 
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
