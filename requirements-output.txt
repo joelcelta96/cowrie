@@ -3,7 +3,7 @@ csirtgsdk==0.0.0a22 # TODO: csirtgsdk need to be updated for current API
 
 
 # dshield
-requests==2.25.0
+requests==2.32.0
 
 # elasticsearch
 elasticsearch==7.10.0
